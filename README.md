@@ -24,7 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feelshot&show_icons=true&locale=en&layout=compact" alt="feelshot" /></p>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=feelshot&theme=omni&show_icons=true&locale=en) -->
 
-
+<br>
 
 <h3>Let's Connect:</h3>
 <p><a href="https://www.linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
