@@ -20,12 +20,20 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 </p>
 
-<h3>Let's Connect:</h3>
-<p><a href="https://www.linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feelshot&show_icons=true&locale=en" alt="Dani Feelshot" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feelshot&show_icons=true&locale=en&layout=compact" alt="feelshot" /></p>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=feelshot&theme=omni&show_icons=true&locale=en) -->
+
+
+
+<h3>Let's Connect:</h3>
+<p><a href="https://www.linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
+
+
+
+
+
+
 
 
 
